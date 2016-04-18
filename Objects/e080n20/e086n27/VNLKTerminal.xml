@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<model>
+      <path>Models/VNLKTerminal.ac</path>
+      <heading-deg>-42.7107439</heading-deg>
+      <roll-deg>-0.4462809563</roll-deg>
+</model>
+
+</PropertyList>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<PropertyList>
+  <model>
+    <path>Models/VNKTIntTerminal.ac</path>
+    <heading-deg>-69.00000000</heading-deg>
+   <pitch-deg>1.487603188</pitch-deg> 
+   <roll-deg>-0.4958678484</roll-deg> 
+ </model>
+</PropertyList>

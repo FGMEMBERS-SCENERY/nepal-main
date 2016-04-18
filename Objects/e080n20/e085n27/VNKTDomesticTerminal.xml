@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+    <model> 
+      <path>Models/VNKTDomesticTerminal.ac</path>
+      <stg-heading-deg>77.32231426</stg-heading-deg>
+    </model>
+</PropertyList>
